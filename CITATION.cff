@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you cite this computational research thesis, please use the metadata below. No DOI is minted here; do not invent one."
+type: thesis
+title: "Aging-like BAC sectors when coupling travels through barrier-limited desmoplastic edges"
+authors:
+  - family-names: Ogbonna
+    given-names: Kelechi Emeka
+    email: kelechiogbonna300@gmail.com
+    alias: cloudynirvana
+abstract: >-
+  Do aging-like Bounded Adaptive Coherence sectors that appear under lumped
+  coupling still appear when the same subsystem couples only through
+  barrier-limited desmoplastic edges, or does the barrier schedule carve a
+  different sector map? The barrier schedule carves a different map when the
+  stalled fractions differ by sector. The five-index weight matrix of Thesis
+  #25 is read by that deposit's sector classifier. Under the barrier reading
+  each edge is a series pair in the sense of Thesis #21, and the Laplacian
+  sees only the series flux. A uniform stalled fraction keeps global decay
+  aging-like. Assigning the transport-limited stalled fraction 0.705882 to
+  one sector and the shedding-limited fraction 0.264706 to the other classes
+  that same path neither, and the aging-like sets on the 169-node rate plane
+  are disjoint. Co-decay of conductance with shedding restores the lumped
+  map. No rejuvenation claim. Not a medical device. No document DOI.
+keywords:
+  - bounded adaptive coherence
+  - sector classifier
+  - grounded Laplacian
+  - desmoplastic conductance
+  - series flux
+  - stalled fraction
+  - barrier schedule
+  - research-only
+license: MIT
+date-released: "2026-09-21"
+url: "https://github.com/cloudynirvana/thesis-32-bac-sectors-under-barrier-transport"
+repository-code: "https://github.com/cloudynirvana/thesis-32-bac-sectors-under-barrier-transport"
+preferred-citation:
+  type: thesis
+  title: "Aging-like BAC sectors when coupling travels through barrier-limited desmoplastic edges"
+  authors:
+    - family-names: Ogbonna
+      given-names: Kelechi Emeka
+  year: 2026
+  month: 9
+  url: "https://github.com/cloudynirvana/thesis-32-bac-sectors-under-barrier-transport"
+  notes: "Thesis #32. Depends on Thesis #25 and Thesis #21. Computational research. Shared five-index toy with barrier edges. No document DOI. Not a rejuvenation or dose claim."
